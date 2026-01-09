@@ -2,6 +2,8 @@
 // let score = null
 // let score = undefined
 
+//we can covert variables as we want
+
 // console.log(typeof score)
 // let valueInNumber = Number(score)
 // console.log(typeof valueInNumber)
@@ -10,6 +12,7 @@
 //"33" => 33
 //"33abc => Nan"
 // true => 1; false => 0
+
 
 let isLoggedIn = 1
 let booleanIsLoggedIn = Boolean(isLoggedIn)
