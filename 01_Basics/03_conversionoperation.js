@@ -14,14 +14,20 @@
 // true => 1; false => 0
 
 
-let isLoggedIn = 1
-let booleanIsLoggedIn = Boolean(isLoggedIn)
+// let isLoggedIn = 1
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn)
 
 // 1 => true
 // "" => false
 // "jay" => true
 
-let someNumber = 33
-let Number = String(someNumber)
-console.log(typeof Number)
+// let someNumber = 33
+// let Number = String(someNumber)
+// console.log(typeof Number)
+
+// let gameCounter = 100
+// ++gameCounter;
+// console.log(gameCounter);
+
+//prefix and postfix on mdn web
