@@ -19,5 +19,7 @@
 // console.log(undefined>=0)
 // console.log(undefined>0)
 
+
+
 //strict check check values + datatype both ===
 // console.log("2"===2);
